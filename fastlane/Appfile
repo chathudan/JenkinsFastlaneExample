@@ -1,6 +1,8 @@
-app_identifier("com.au.elegantmedia.testapp") # The bundle identifier of your app
+app_identifier("com.au.elegantmedia.testappci") # The bundle identifier of your app
 apple_id("avinas.emedia@gmail.com") # Your Apple email address
 
+itc_team_id("588986") # App Store Connect Team ID
+team_id("9584XYR28J") # Developer Portal Team ID
 itc_team_id("588986") # App Store Connect Team ID
 team_id("9584XYR28J") # Developer Portal Team ID
 
